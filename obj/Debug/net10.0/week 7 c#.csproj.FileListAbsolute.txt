@@ -1,0 +1,14 @@
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\bin\Debug\net10.0\week 7 c#.exe
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\bin\Debug\net10.0\week 7 c#.deps.json
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\bin\Debug\net10.0\week 7 c#.runtimeconfig.json
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\bin\Debug\net10.0\week 7 c#.dll
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\bin\Debug\net10.0\week 7 c#.pdb
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\obj\Debug\net10.0\week 7 c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\obj\Debug\net10.0\week 7 c#.AssemblyInfoInputs.cache
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\obj\Debug\net10.0\week 7 c#.AssemblyInfo.cs
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\obj\Debug\net10.0\week 7 c#.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\obj\Debug\net10.0\week 7 c#.dll
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\obj\Debug\net10.0\refint\week 7 c#.dll
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\obj\Debug\net10.0\week 7 c#.pdb
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\obj\Debug\net10.0\week 7 c#.genruntimeconfig.cache
+C:\Users\ABDUL GANIYU\Desktop\week 7 c#\obj\Debug\net10.0\ref\week 7 c#.dll
